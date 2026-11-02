@@ -60,7 +60,7 @@ Les relevés sont lus dans `donnees/releves.json`, et chaque ajout y est enregis
    git branch -M main
    git remote add origin https://github.com/VOTRE-COMPTE/brief-4-journal-meteo.git
    git push -u origin main
-   ```
+   ```clear
 
 3. `node app.js` affiche seulement « À compléter » : le menu est à écrire. `npm test` affiche **3 tests verts** (les outils fournis) et **35 rouges**.
 
