@@ -4,7 +4,7 @@
 
 ## Contexte
 
-✏️ *En trois à cinq phrases : qui utilise l'outil, quel problème il résout, ce qu'il ne permet pas de conclure.*
+ L'outil est utlisé par le chef d'exploitation ,l'agriculeur ,les techniciens agricoles ,l'outil permet de centralisé des données,dipose d'un historique traçable et ce qu'il ne peut pas faire ,ce sont les previsions futures de la méteo ,de decider à la place de l'agriculteur.
 
 ## Prérequis et lancement
 
