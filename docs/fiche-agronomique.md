@@ -10,4 +10,4 @@ La temperature mesure le degré de chaleur ou de froid de l'air. Quant la pluie 
 
 **Une limite pour l'interprétation climatique** (dix jours contre une trentaine d'années pour un climat ; ce que le seuil de 10 mm ne prévoit pas ; l'humidité de l'air n'est pas celle du sol) : 10 jours ,c'est la météo du jour ;30 ans cest le climat ,le journal ne prevoit pas le climat.
 
-Sources :releves.json  · Relu par le coach le : ✏️
+Sources :releves.json  · Relu par le coach le : 

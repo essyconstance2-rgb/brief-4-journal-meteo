@@ -7,10 +7,10 @@
 | Poste et dépôt prêts ; besoin compris ; documents commencés |  | |
 | Fiche 2 : lire et écrire le JSON |prévu le 03 novembre | fait le 03 novembre| reposiritory(git hub)|
 | Fiche 3 : ajouter et lister ; choix 1 et 2 ; erreurs |  | | | 
-| Fiche 4 : rechercher et trier ; choix 3 et 4 |prévu le 03 novembre |fait le 02 novembre | repository (git hub)| 
+| Fiche 4 : rechercher et trier ; choix 3 et 4 |prévu le 03 novembre |fait le 05 novembre | repository (git hub)| 
 | Fiche 5 : synthèse ; choix 5 |prévu 03 novembre |fait le 03 novembre |reposiritory(git hub) |
 | Tests par un camarade ; mes propres tests | | | |Readme
-| Fiche agronomique ; README ; documents | prévu le 02 novembre| fait le 02 novmbre|repository(git hub)|
+| Fiche agronomique ; README ; documents | prévu le 02 novembre| fait le 05 novmbre|repository(git hub)|
 | Dépôt cloné et lancé ailleurs ; démonstration répétée | | | |
 | Bonus || | |
 
